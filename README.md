@@ -21,5 +21,5 @@ into some of the older threads.
 ### Twitter
 
 If you have something quick and easy, just ping me on Twitter. 280 characters
-makes everyone more efficient. I'm [@buildwrangler](https://twitter.com/buildwrangler) on
+makes everyone more efficient. I'm [@build_wrangler](https://twitter.com/build_wrangler) on
 Twitter.
